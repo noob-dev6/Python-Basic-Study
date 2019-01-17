@@ -18,12 +18,12 @@
 4. Chatper 04 - 파이 크러스트 : 코드 구조 [ ~~2019/01/15(화) 완료~~ ]
 5. Chapter 05 - 파이 포장하기 : 모듈, 패키지, 프로그램 [ ~~2019/01/15(수) 완료~~ ]
 6. Chapter 06 - 객체와 클래스 [ ~~2019/01/16(목) 완료~~ ]
-7. Chapter 07 - 데이터 주무르기
-8. Chapter 08 - 흘러가는 데이터
-9. Chapter 09 - 웹
-10. Chapter 10 - 시스템
-11. Chapter 11 - 병행성과 네트워크
-12. Chapter 12 - 파이 환경 설정 및 도구 : 파이써니스타 되기
+7. Chapter 07 - 데이터 주무르기 [ Not Yet ]
+8. Chapter 08 - 흘러가는 데이터 [ Not Yet ]
+9. Chapter 09 - 웹 [ Not Yet ]
+10. Chapter 10 - 시스템 [ Not Yet ]
+11. Chapter 11 - 병행성과 네트워크 [ Not Yet ]
+12. Chapter 12 - 파이 환경 설정 및 도구 : 파이써니스타 되기 [ Not Yet ]
 
 # 정리 확인
 1. [Chatper 01 - 파이(py) 맛보기](https://github.com/noob-dev6/Python-Basic-Study/tree/master/Chapter01) 
